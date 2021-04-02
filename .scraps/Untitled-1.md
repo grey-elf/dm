@@ -1,0 +1,49 @@
+ - [ ] Bigby
+   - [x] class details
+   - [x] items
+   - [x] spells
+   - [x] details
+   - [ ] traits/ideals/bonds/flaws
+ - [ ] Drawmij
+   - [x] class details
+   - [x] items
+   - [x] spells
+   - [x] details
+   - [ ] traits/ideals/bonds/flaws
+ - [ ] Jallarzi Sallavarian
+   - [x] class details
+   - [x] items
+   - [x] spells
+   - [x] details
+   - [ ] traits/ideals/bonds/flaws
+ - [ ] Nystul
+   - [x] class details
+   - [x] items
+   - [x] spells
+   - [x] details
+   - [x] protection from evil effect
+   - [ ] traits/ideals/bonds/flaws
+ - [ ] Otiluke
+   - [x] class details
+   - [x] items
+   - [x] spells
+   - [x] details
+   - [ ] traits/ideals/bonds/flaws
+ - [ ] Otto
+   - [ ] class details
+   - [x] items
+   - [x] spells
+   - [ ] details
+   - [ ] traits/ideals/bonds/flaws
+ - [ ] Rary
+   - [ ] class details
+   - [ ] items
+   - [ ] spells
+   - [ ] details
+   - [ ] traits/ideals/bonds/flaws
+ - [ ] Tenser
+   - [ ] class details
+   - [ ] items
+   - [ ] spells
+   - [ ] details
+   - [ ] traits/ideals/bonds/flaws

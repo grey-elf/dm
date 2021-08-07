@@ -30,20 +30,24 @@
    - [x] details
    - [ ] traits/ideals/bonds/flaws
  - [ ] Otto
-   - [ ] class details
+   - [x] class details
    - [x] items
    - [x] spells
-   - [ ] details
+   - [x] details
    - [ ] traits/ideals/bonds/flaws
  - [ ] Rary
-   - [ ] class details
-   - [ ] items
-   - [ ] spells
-   - [ ] details
+   - [x] class details
+   - [x] items
+   - [x] spells
+   - [x] details
    - [ ] traits/ideals/bonds/flaws
  - [ ] Tenser
-   - [ ] class details
-   - [ ] items
-   - [ ] spells
-   - [ ] details
+   - [x] class details
+   - [x] items
+   - [x] spells
+   - [x] details
    - [ ] traits/ideals/bonds/flaws
+
+### DM Notes
+- After completing the prologue, determine how each character knows the Circle of Eight member that their player chose.
+- One character should know Xovon One-Eye (DVD p85)

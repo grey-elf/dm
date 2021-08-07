@@ -1,0 +1,40 @@
+site_name: DM
+site_url: https://grey-elf.net/dm
+theme: cinder
+nav:
+- Introduction: index.md
+- Overview:
+  - 'Story Overview': 'overview.md'
+  - 'Dramatis Personae': 'overview/dramatis-personae.md'
+  - 'The Cult of Vecna': 'overview/the-cult-of-vecna.md'
+  - Artifacts: 'overview/artifacts.md'
+- 'Part 1: Vecna Lives':
+  - 'Dramatis Personae': 'vl/dramatis-personae.md'
+  - 'A Prologue': 'vl/0-a-prologue.md'
+  - 'Ch. 1: A New Beginning': 'vl/1-a-new-beginning.md'
+  - 'Ch. 2: A Meeting with Mordenkainen': 'vl/2-a-meeting-with-mordenkainen.md'
+  - 'Ch. 3: Research & An Interlude': 'vl/3-research.md'
+  - 'Ch. 4: Traveling': 'vl/4-traveling.md'
+  - 'Ch. 5: Verbobonc': 'vl/5-verbobonc.md'
+  - 'Ch. 6: Vecna Lives': 'vl/6-vecna-lives.md'
+  - 'App. A: The Rhennee': 'vl/the-rhennee.md'
+- 'Part 2: Vecna Reborn':
+  - 'Dramatis Personae': 'vr/dramatis-personae.md'
+  - 'Ch. 1: Osnabrölt': 'vr/1-osnabrolt.md'
+  - 'Ch. 2: The Clutches of Vecna': 'vr/2-the-clutches-of-vecna.md'
+  - 'Ch. 3: City of Dread': 'vr/3-city-of-dread.md'
+  - 'Ch. 4: Vecna Reborn': 'vr/4-vecna-reborn.md'
+- 'Part 3: Die Vecna Die':
+  - 'Dramatis Personae': 'dvd/dramatis-personae.md'
+  - 'Ch. 1: Tovag Baragu': 'dvd/1-tovag-baragu.md'
+  - 'Ch. 2: The Temple of Vecna': 'dvd/2-the-temple-of-vecna.md'
+  - 'Ch. 3: Into the Mists': 'dvd/3-into-the-mists.md'
+  - 'Ch. 4: Citadel Cavitius': 'dvd/4-citadel-cavitius.md'
+  - 'Ch. 5: The Palace of Vecna': 'dvd/5-the-palace-of-vecna.md'
+  - 'Ch. 6: City of Doors': 'dvd/6-city-of-doors.md'
+  - 'Ch. 7: The Armory': 'dvd/7-the-armory.md'
+  - 'Ch. 8: Die, Vecna, Die!': 'dvd/8-die-vecna-die.md'
+- Players: '/players/'
+markdown_extensions:
+- admonition
+- footnotes

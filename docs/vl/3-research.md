@@ -62,7 +62,7 @@ Unchanged.
 
 - More on LGG64-65/66 (depending on how long the book covers)
 - Describes the Sword of Kas as a rapier.  
-- The Shrouded Empire (of Vecna)
+- The Occluded Empire (of Vecna)  
 
 #### The Dragon-Scale Tome
 
@@ -100,6 +100,10 @@ the halls of heaven will hail a new king
 #### The True Relation of the Nyr Dyv and the Lands Surrounding
 
 - Unchanged except for removing mention of Cult of Vecna
+- *Revision notes:* 
+    - Why does it say Osnabrölt is on the shore of Midbay?
+    - The sketch map doesn't actually show Halmadar's tomb despite what the book text says?
+    - Is it supposed to imply that the tomb is the hill marked "Kron"? I choose to believe it doesn't.
 
 ## Temples
 
@@ -193,7 +197,7 @@ the halls of heaven will hail a new king
 
 - goddess of hills and mountains
 - Dwarves and gnomes have best success
-- Matriarch Guldan Rockflint concrned about reports of evil madness from the Kron Hills
+- Matriarch Guldan Rockflint concerned about reports of evil madness from the Kron Hills
 - Lost communications with Osnabrölt
 
 ### Xan Yae
@@ -230,7 +234,7 @@ Jallarzi's mansion is in the city's High Quarter, at H16. It is described on GoF
 Jallarzi sent her servants on vacation before she left with the rest of the Circle of Eight. Her vast but unfurnished house is uninhabited except for Edwina, her pseudodragon familiar she left behind because of her not getting along with Otiluke.  
 
 !!! note "Edwina"
-    Edwina is Jallarzi's familiar, a wild pseudodragon that the wizard befriended some time ago. This means she cannot be dismissed or summoned using the ***find familiar*** spell. Edwina has the stats of a **pseudodragon (familiar variant)**. When found, she will be immediately friendly with any member of the party who is not Otiluke's contact, but she will become especially attached to one of them, in the following order of preference:
+    Edwina is Jallarzi's familiar, a wild pseudodragon that the wizard befriended some time ago. This means she cannot be dismissed or summoned using the *find familiar* spell. Edwina has the stats of a **pseudodragon (familiar variant)**. When found, she will be immediately friendly with any member of the party who is not Otiluke's contact, but she will become especially attached to one of them, in the following order of preference:
 
     - The character who is Jallarzi's contact
     - Any elf or halfling that is not Otiluke's contact
@@ -289,7 +293,7 @@ The house is inhabited by a handful of servants and a young woman named Glorial.
 
 ##### Turim Varostak
 
-Turim Varostak (LE human **lich**, he/him) is Vecna's manifestation on Oerth. He appears to be a tall, wiry, grizzled human sailor with thinning white hair and a permanent scowl. He is an honorary Rhennee, a fact indicated by a charm he wears dangling from his belt. His entire left side is badly scarred and mutilated. He has a peg in place of his left leg, a leather cuff ending with a hook over his left forearm, and a patch over his left eye.  
+[Turim Varostak](dramatis-personae.md#turim-varostak) is Vecna's manifestation on Oerth. He appears to be a tall, wiry, grizzled human sailor with thinning white hair and a permanent scowl. He is an honorary Rhennee, a fact indicated by a charm he wears dangling from his belt. His entire left side is badly scarred and mutilated. He has a peg in place of his left leg, a leather cuff ending with a hook over his left forearm, and a patch over his left eye.  
 
 - Claims to be a bargemaster
 - Has various different stories as to his injuries.
@@ -302,7 +306,7 @@ Turim Varostak (LE human **lich**, he/him) is Vecna's manifestation on Oerth. He
 
 ##### Yagos Slevak
 
-Yagos Slevak (NE Rhennee human **master thief**, he/him) is the leader of the Fingers of Vecna among the Rhennee and in the region. He is a weaselly, oily sycophant of a man who may seem helpless but is actually quite dangerous.  
+[Yagos Slevak](dramatis-personae.md#yagos-slevak) is the leader of the Fingers of Vecna among the Rhennee and in the region. He is a weaselly, oily sycophant of a man who may seem helpless but is actually quite dangerous.  
 
 - Rightfully mistrusted by most other Rhennee, but clannishness will still protect him unless outed as cultist
 - Will not reveal status as cultist of Vecna
@@ -330,16 +334,15 @@ The players might recognize him from the attack at the Roc and Oliphant.
 
 ##### Avrel Riskar
 
-Avrel Riskar (NG Rhennee human **noble**, he/him) is a Rhennee noble and a senior member of one of the clans currently in Greyhawk.  
+[Avrel Riskar](dramatis-personae.md#avrel-riskar) is a Rhennee noble and a senior member of one of the clans currently in Greyhawk.  
 
 - Could be found just asking around or through introduction by priests of Xerbo
 - Knows information in "What the Rhennee Know" sidebar
 
-> **Family**:  
+!!! note "Family":  
     - Husband: Marcel Vali (NG Rhennee human **druid**, he/him)  
-    - Child: Gabi Sala (CG Rhennee human **swashbuckler**, they/she)  
     - Brother: Morlo Vergond (Deceased, he/him)  
-    - Niece: Rona Fele (CN Rhennee human **bandit**, she/her) [relevant in our campaign specifically, might cut from final]  
+    - Niece: Rona Fele (CN Rhennee human **swashbuckler**, she/they) [relevant in our campaign specifically, might cut from final]  
 
 #### The Thieves' Guild
 
@@ -362,6 +365,11 @@ Avrel Riskar (NG Rhennee human **noble**, he/him) is a Rhennee noble and a senio
 #### The Shapechangers
 
 - Probably won't use, throw together later if needed
+
+!!! note "Low-level Shapechangers Encounter"
+    Clannair Blackshadow : **Drow**  
+    Imogen Gellett : **Spy**  
+    Harral Shastri : **Apprentice Wizard**  
 
 !!! note "High-level Shapechangers Encounter"
     Clannair Blackshadow : **Drow Elite Warrior**  
@@ -405,13 +413,13 @@ See "Tracking" in An Interlude
     - Ice starts in the north and has been spreading south
 - The freezing Nyr Dyv is driving ships and monsters south, concentrating them more than usual, travel is dangerous
 - With the weather turning and the Nyr Dyv treacherous, the Rhennee need to make wintering plans
-- There are three Rhennee clans currently in Greyhawk, which is conjesting the river and becoming troublesome for the city
+- There are three Rhennee clans currently in Greyhawk, which is congesting the river and becoming troublesome for the city
 - One of the three are going to have to set out to winter elsewhere
 - None of the nobles want their clan to be the one to leave, fearing their safety
 - Many of the folk want to stay where it's safe, also
 - Some of the younger Rhennee don't want to just sit around and are willing to brave the lake for glory and the safety
 - Once they realize just how dire the situation is, the 3 nobles will call a meeting at the Green Dragon Inn and begin deliberations
-- While this meeting occurs, clan boundries come up, Rhennee from different clans will not mingle
+- While this meeting occurs, clan boundaries come up, Rhennee from different clans will not mingle
 - Not all Rhennee in Greyhawk will attend the meeting at once, some will come and go, others won't come at all. They will not participate in the meeting personally, but are invested in the outcomes of the noble's deliberations
 - The meeting is carried out entirely in Rhopan
 - If the party wants to travel with the Rhennee, they could seek passage with whichever of the clans does not stay in the city, provided they pay for the service or are able to assure their usefulness aboard the ships
@@ -429,8 +437,7 @@ See "Tracking" in An Interlude
     - It will require strong insight into Rhennee culture and the current social dynamic between the three clans here, which might be aided by a character coming from a culture with similar clannishness
 - If convinced, Avrel will immediately and emphatically announce his clan's departure. They will set out the next day at noon
 - As soon as the deliberations are concluded, the clan barriers fall and intermingling resumes, festivities starting for the night to send off the departing clan
-
-
+- Avrel will only tell the bargemasters of the true reason of them going to Verbobonc, in order to track the cult. This means that Yagos, himself a cultist, knows unless he was outed as a cultist as well.
 
 ## Level Advancement
 

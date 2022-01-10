@@ -5,9 +5,9 @@
 ### Teleconferencing
 
 - the members of the Circle had contingencies in place to contact trusted agents in the case of their demise
-- once the severity of the divinitation blackout was determined, Mordenkainen and the Circle got involved
+- once the severity of the divination blackout was determined, Mordenkainen and the Circle got involved
 - they began to research why such a thing might happen
-- working theory is that some great calamity is on the horizon, great enough that the future is  unclear
+- working theory is that some great calamity is on the horizon, great enough that the future is unclear
 - and the blackout is spreading
 - with the Circle he began to research the possibility of this happening before, and what might be causing it now
 - but got pulled away to handle some other threat (that he won't share) and left the rest of the Circle to it independently

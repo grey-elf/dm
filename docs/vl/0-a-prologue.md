@@ -1,5 +1,7 @@
 # A Prologue: Wherein the Circle of Eight Begins a Membership Drive
 
+Revision note: Wherever it becomes relevant, note that Halmadar is/was Oeridian. Source: LGJ0p6
+
 ## The Circle of Eight
 
 No need to treat your players like children, just tell them that for a prologue they will be playing different characters. If your players *are* children, this probably isn't the right adventure for them.  
@@ -57,7 +59,7 @@ Hiding in the murky water at the bottom of the pit are three **Wretched**.
 
 ## 6. The Inner Seal
 
-A DC 15 Intelligence (Arcana) check will identify the inscriptions as being abjurative in nature, made easier (DC 10) if the outer seal was also examined, casting *detect magic* also reveals this. A DC 25 Intelligence (Arcana) check allows the deduction that the ward is intended to keep something in, not out.  
+A DC 15 Intelligence (Arcana) check will identify the inscriptions as being abjurative in nature, made easier (DC 10) if the outer seal was also examined, casting *detect magic* also reveals this. A DC 20 Intelligence (Arcana) check allows the deduction that the ward is intended to keep something in, not out.  
 
 In one side of the inscribed slab, there is a small crack. Spotting this requires a DC 22 Intelligence (Investigation) check. Through this, the decay that has worn the rest of the cairn has leaked.  
 
@@ -77,3 +79,5 @@ The wizards have little time to orient themselves in the chamber. Not being one 
 Halmadar is boastful, claiming victory as soon as combat begins. He taunts the Circle for falling into his trap and freeing him. He thinks that he is Vecna, introducing himself with many of the archlich's titles as he rises from the throne and hefts his sword, but when he speaks the name "Vecna" it is instead heard only as a faint, incomprehensible whisper.  
 
 After the first round where the wizards and the sorrowsworn are surprised, combat proceeds as normal. It is *required* that the Circle of Eight fall here. This fight should be impossible, and it should feel impossible, but it shouldn't feel cheap. As much as possible the players should feel like they were fairly beaten by an unbelievably powerful foe, and not like they were cheated (such as by instant kills while time is frozen). If required, have more sorrowsworn emerge from the detritus, thematically they should be **Angry** since Halmadar spent much longer being angry than hungry, but some **Hungry** can be included for variety. For the purposes of this encounter, Halmadar cannot be reduced below 1 hit point.  
+
+Make note of how each member of the circle dies, it will be important later on.  

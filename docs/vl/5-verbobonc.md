@@ -68,6 +68,8 @@ Even though he is later in his years, Virianis Dast spends much of his time movi
 - 4 Sons:
     - Alston
 
+- Vargannos
+
 ## Searching
 
 - His Holiness, Bishop Haufren of Saint Cuthbert (LN Oeridian human **war priest**, he/him)
@@ -107,7 +109,7 @@ The cult has been putting a trap in motion since becoming aware of the party's p
     - Being lead there by the gnomes of Osnabrölt, Halmadar's entombment was only 130-some years ago, many of the gnomes there were alive at the time and even participated in its construction. This option is best saved for if the party only think to seek out the tomb after they have gone to Osnabrölt in the later chapter.
     - Or another approach at the DM's discretion.
 
-    See [Book 2, Chapter 1](../vr/1-osnabrolt.md#the-road-to-osnabrolt) for more information on venturing into the Kron Hills.  
+    See [Book 2, Chapter 2](../vr/2-kron-hills.md) for more information on venturing into the Kron Hills.  
 
     Arriving at the tomb, the party finds the aftermath of the Circle of Eight's investigation of it. Roughly a month has passed since then. Little has changed since [the prologue](0-a-prologue.md), except as described below:  
 

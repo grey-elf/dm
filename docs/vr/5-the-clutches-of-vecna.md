@@ -1,4 +1,4 @@
-# Chapter 2: The Clutches of Vecna
+# Chapter 5: The Clutches of Vecna
 
 
 *Might move this once chapter order is finalized.*

@@ -10,10 +10,12 @@ Part | Chapter | Summary | Level
 1 | [Chapter 4: Traveling](vl/4-traveling.md) | The party set out on the river toward the last known whereabouts of the Circle | 5
 1 | [Chapter 5: Verbobonc](vl/5-verbobonc.md) | Arriving in Verbobonc, the party get lured in by the machinations of the cult | 6
 1 | [Chapter 6: Vecna Lives](vl/6-vecna-lives.md) | The party discover the cult's hideout, and Vecna's return begins | 7
-2 | [Chapter 1: Osnabrölt](vr/1-osnabrolt.md) | In the aftermath of the events at the secret temple, the party set out to Osnabrölt, the purported location of the legendary *Sword of Kas* | 8
-2 | [Chapter 2: City of Dread](vr/3-city-of-dread.md) | The party return to Verbobonc to plan for what's next, only to find the city in the grips of calamity as the Maimed Lord musters his power | 9
-2 | [Chapter 3: The Clutches of Vecna](vr/2-the-clutches-of-vecna.md) | In order to discover the cult's plans the party must venture to the former heart of Vecna's empire, where they cross paths with an unlikely ally | 10
-2 | [Chapter 4: Vecna Reborn](vr/4-vecna-reborn.md) | Returning to Verbobonc, the characters battle to prevent a ritual that would return Vecna to his full power as otherworldly mists creep in around them | 11
+2 | [Chapter 1: Aftermath](vr/1-aftermath.md) | The heroes wake up after the events at the secret temple  
+2 | [Chapter 2: Kron Hills](vr/2-kron-hills.md) | 
+2 | [Chapter 3: Osnabrölt](vr/3-osnabrolt.md) | In the aftermath of the events at the secret temple, the party set out to Osnabrölt, the purported location of the legendary *Sword of Kas* | 8
+2 | [Chapter 4: City of Dread](vr/3-city-of-dread.md) | The party return to Verbobonc to plan for what's next, only to find the city in the grips of calamity as the Maimed Lord musters his power | 9
+2 | [Chapter 5: The Clutches of Vecna](vr/2-the-clutches-of-vecna.md) | In order to discover the cult's plans the party must venture to the former heart of Vecna's empire, where they cross paths with an unlikely ally | 10
+2 | [Chapter 6: Vecna Reborn](vr/4-vecna-reborn.md) | Returning to Verbobonc, the characters battle to prevent a ritual that would return Vecna to his full power as otherworldly mists creep in around them | 11
 3 | [Chapter 1: Tovag Baragu](dvd/1-tovag-baragu.md) | Unsure whether their last attempt was successful, the party receive word of strange happenings at ancient Tovag Baragu, and go to investigate | 12
 3 | [Chapter 2: The Temple of Vecna](dvd/2-the-temple-of-vecna.md) | Through the extradimensional tangle of parallel Tovag Baragus, the party find themselves in the cult's headquarters, in the final moments of being sacked by the forces of Iuz | 13
 3 | [Chapter 3: Into the Mists](dvd/3-into-the-mists.md) | A gate deep within the temple takes the party into a realm of mists | 13/14

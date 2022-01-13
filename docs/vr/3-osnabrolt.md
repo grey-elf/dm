@@ -1,11 +1,10 @@
-# Chapter 1: Osnabrölt
+# Chapter 3: Osnabrölt
+
+https://www.milbysmaps.com/2018/09/22/the-forgotten-village-of-cottering/
 
 **How do I make sure the party hears about "the sacred treasure of Osnabrölt"?**
 
 ## The Road to Osnabrölt
-
-> From Living Greyhawk Gazetteer p132:  
-> The surrounding hillocks [of Verbobonc] still hold relics of those ancient days, slowly crumbling towers of unsurpassed beauty, troves of buried arrowheads and still-useful armor, and even, it is said, the elven Old Places, sacred refuges hidden in the magical folds of the world.
 
 ## Into Osnabrölt
 

@@ -56,6 +56,16 @@ There are more cultists in Verbobonc than just these, but not many, and few of t
 
 ## Vecna Lives
 
+- Track ritual progress to Hand HP but don't make it obvious
+- Near death, perceptive characters may hear noise approaching
+- Turim goes on "Ritual" initiative
+- Depending on positioning, some might see Turim approaching
+- Re-describe Turim: Left side badly scarred, missing hand and leg. Eyepatch on left side. Peg leg. Crutch. Hook.
+- Turim does not hold back against anyone who gets in his way
+- Turim approaches circle, shatters it with his right hand, throws Thought aside, strides in
+
+> "You dare interfere in the moment of my ascension? Who do you think you are, worm? You stand against the Whispered One, the Master of the Spidered Throne, the Lord of the Rotted Tower, the Undying King. **I AM ||VECNA||**." The last word is only whispers but reverberates through the room. With a roar he thrusts his gnarled left hand towards Turim, pointed fingers outstretched. In a flash, Turim catches the wrist with his hook and pulls it aside, then steps in closer. The candles gutter, the smoke in the room begins to swirl around them. Turim's right hand shoots forward and grabs the Voice by the throat, and the sound of shattering bones filling the room as he twists the Voice's arm. The swirling smoke takes on the shape of a serpent that circles the room. Power surges through Turim as he speaks, "No..." The Voice now looks afraid, and then begins to crumble. Turim's hook falls away and the gnarled hand attaches itself to the stump of his arm. The Voice's head falls apart and his eye drops into the palm of Turim's hand. The decaying body falls to the ground and Turim pulls his eyepatch aside, inserting the eyeball into his empty socket. "...I am Vecna."  
+> And then the room explodes.  
 
 ## Level Advancement
 

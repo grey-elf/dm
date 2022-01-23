@@ -26,9 +26,16 @@ Location: Osnabrölt
 
 Aspect: The Destroyer, Kas as warrior and bodyguard. Brutal, bloodthirsty, ferocious.  
 
-> You are Kas, the Destroyer. Fear grips even the mightiest heroes of Good when you step onto the battlefield, for they know that the approach of Lord Vecna's champion is the approach of death. ...
-> The sword in your hands...  
+> You are Kas, the Destroyer. When you are not at Lord Vecna's side protecting his life with your own, you are the tip of his spear, leading the charge of his dread hordes and war wizards against his enemies. Fear grips even the mightiest heroes of Good when you step onto the battlefield, for they know that the approach of Lord Vecna's champion is the approach of death itself. The greatsword in your hands is an instrument of destruction, sailing through the air with grace and ease, it turns everything around you into bloody carnage.  
+> 
 
+
+**Properties.**
+
+- Minor Beneficial: While attuned to the artifact, you gain a +1 bonus to Armor Class.
+- Major Beneficial: While attuned to the artifact, your walking speed increases by 10 feet.
+- Minor Detrimental: While attuned to the artifact, all holy water within 10 feet of you is destroyed.
+- Major Detrimental: You take 4d10 psychic damage when you become attuned to the artifact.
 
 > Any normal sword made to such proportions would be virtually unmanageable by a human, but the magical endowments of the Sword of Kas allow it to be handled by any warrior with grace and ease, albeit with two hands.  
 >  – Vecna Lives! p. 71

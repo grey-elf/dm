@@ -339,7 +339,7 @@ The players might recognize him from the attack at the Roc and Oliphant.
 - Could be found just asking around or through introduction by priests of Xerbo
 - Knows information in "What the Rhennee Know" sidebar
 
-!!! note "Family":  
+!!! note "Family"
     - Husband: Marcel Vali (NG Rhennee human **druid**, he/him)  
     - Brother: Morlo Vergond (Deceased, he/him)  
     - Niece: Rona Fele (CN Rhennee human **swashbuckler**, she/they) [relevant in our campaign specifically, might cut from final]  

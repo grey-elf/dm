@@ -11,3 +11,7 @@
 - What's the deal with Yagos?
 - Rhennee reunited
 - Shopping
+
+## Visions
+
+## Coming To

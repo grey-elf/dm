@@ -2,7 +2,7 @@
 
 Secretive and small, the Cult of Vecna on Oerth venerates the memory of the ancient arch-lich turned demigod, plotting and preparing for his eventual return.  
 
-With his name struck from the memory of the Oerth, the Cult of Vecna is never referred to as such. Instead, it is normally called the *Cult of the Whispered One* by the few who even know it exists. Individual cells of the cult use names such as the following:  
+While his name is struck from the memory of Oerth, the Cult of Vecna is never referred to as such. Instead, it is normally called the *Cult of the Whispered One* by the few who even know it exists. Individual cells of the cult might also use names such as the following:  
 
 - Followers of the Whispered One
 - Disciples of the Hand and the Eye
@@ -12,6 +12,8 @@ With his name struck from the memory of the Oerth, the Cult of Vecna is never re
 Until the adventure's beginning, the cult had been biding their time and spreading their reach, but had been mostly kept in check by the Spurned Cult of Iuz, their chief rivals. Still, their prophecies forewarned their lord's return in this year, and they had been making preparations. Further details on Vecna's plan can be found in the [Story Overview](../overview.md#vecnas-plan)  
 
 > No matter how powerful a being is, there exists a secret that can destroy him. In every heart is a seed of darkness hidden from all others; find that evil seed, and your enemies are undone. Strength and power come if you know and control what others dare not show. Never reveal all that you know, or your enemies will take your seed, too.  
+
+"Twice yearly they must sacrifice large quantities of magical items to Vecna." (VL74)
 
 ## Hierarchy
 

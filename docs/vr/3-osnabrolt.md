@@ -1,28 +1,41 @@
 # Chapter 3: Osnabrölt
 
-https://www.milbysmaps.com/2018/09/22/the-forgotten-village-of-cottering/
-
 **How do I make sure the party hears about "the sacred treasure of Osnabrölt"?**
-
-## The Road to Osnabrölt
 
 ## Into Osnabrölt
 
-Maldo Daergel-Beren
+Maldo Daergel-Beren (**gnome scout**)
 
 - Remaining healer: gnome **acolyte**, priest of whole pantheon but primarily Segojan Earthcaller
 
 
 ## Getting Steamed
 
-- During the time it takes the gnomes to prepare for the rituals (ie build the sweat lodge, etc.), they can venture to Halmadar's Tomb
+- During the time it takes the gnomes to prepare for the rituals (ie build the sauna, bathtubs etc.), they can venture to Halmadar's Tomb
 - Given stuff to make clothes for themselves while travelling
-- 
+- Day of fasting beforehand is fine, no mechanical detriment since PCs can go 3+Con (min 1) days without food before exhaustion sets in
+- Actual steam room stuff:
+    - No items, equipment, etc.
+    - Should it be less than 14 hours since it's been established as late fall/early winter? Maybe 10 hours?
+    - Just use extreme heat rules: https://www.dndbeyond.com/sources/dmg/adventure-environments#ExtremeHeat
+    - At exhaustion 6 from this, not instant death, instead drop to 0 hp and start making death saves (maybe death saves every hour?)
+    - Does hallucination only start after one failure?
+    - If no failures, hallucination starts anyways after X hours? Don't want characters to miss out
+    - Is healing magic allowed? Don't see why not, the goal is to cleanse not to torture and kill the PCs
+    - If stabilized, return to level 5 exhaustion?
+    - Have to clear this exhaustion afterwards, otherwise the combat later is going to be brutal
+        - Clears on short rest like chase exhaustion?
+        - Or maybe the gnomes have some sort of "Elixir of Vitality" -> Mini potion of vitality, just clears exhaustion
+
+TODO: Disclaimer/warning about cultural appropriation, saunas, sweat lodges, etc.  
 
 ## The Sword of Kas?
 
 
 ## The Enemy
+
+- If Beryn has been travelling with the characters, he legitimately feels bad about this
+- https://youtu.be/FxEyekRtVWo
 
 !!! note "Return to Halmadar's Tomb"
     The party may be eager to set out to the Kron Hills in search of Halmadar's Tomb, even if they don't know that this was where the Circle of Eight fell, their research all but certainly points to it as the next step on the archmages' trail. If they attempt to do so, the burial mound is not easy to find. When the Circle of Eight searched for it, the divination blackout was still weak enough in this region that they were able to rely on magic to locate it, a luxury no longer available to the player characters.  

@@ -26,7 +26,7 @@ Evard is an Oeridian human **conjurer**, with these changes:
     5th level (2 slots): *cloudkill*,\* *negative energy flood*  
     \*Conjuration spell of 1st level or higher  
 
-Evard's spellbook contains all the spells he has prepared, as well as the following: *comprehend languages*, *detect magic*, *detect thoughts*, *far step*, *Galder's tower*, *grease*, *identify*, *Leomund’s secret chest*, *Leomund’s tiny hut*, *Mordenkainen's faithful hound*, *negative energy flood*, *rope trick*, *scrying*, *teleport*, *teleportation circle*, and *unseen servant*.  
+Evard's spellbook contains all the spells he has prepared, as well as the following: *comprehend languages*, *detect magic*, *detect thoughts*, *far step*, *Galder's tower*, *grease*, *identify*, *Leomund’s secret chest*, *Leomund’s tiny hut*, *Mordenkainen's faithful hound*, *rope trick*, *scrying*, *teleport*, *teleportation circle*, and *unseen servant*.  
 
 
 ## Inline NPCs

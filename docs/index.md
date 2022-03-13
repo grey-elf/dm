@@ -27,7 +27,25 @@ Unify and balance the "Vecna Trilogy" as a single campaign meant to be played al
     - The roles of Virianis and Dast (caretaker and "king", respectively) have been combined into a single character, Virianis Dast
     - The role of Larossa Baru is roughly transferred to Miral Cutterfro, who already had a similar role in Vecna Lives
     - The role of the Loreward Banquo is given to a new character who is also given the name of Larossa Baru
-
+- Decided the "Book of Inverted Darkness" doesn't really make sense as a name and replaced it with the Book of Vile Darkness in keeping with more recent lore that the Book is a single artifact and that Vecna had a hand in its creation.
 
 ### Die Vecna Die
 
+
+## Sources Used
+
+- Vecna Lives, Vecna Reborn, Die Vecna Die
+- Living Greyhawk Gazetteer
+- Living Greyhawk Journal #0
+- World of Greyhawk Fantasy Setting (Boxed Set)
+- The City of Greyhawk (Boxed Set)
+- Return to the Temple of Elemental Evil
+- D&D 5e Core Rulebooks
+- Xanathar's Guide to Everything
+- Volo's Guide to Monsters
+- Mordenkainen's Tome of Foes
+- Storm King's Thunder
+- Icewind Dale: Rime of the Frostmaiden
+- Ghosts of Saltmarsh
+- Mordenkainen's Fiendish Folio Volume 1
+- D&D Essentials Kit / Dragon of Icespire Peak

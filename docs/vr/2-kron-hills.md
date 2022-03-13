@@ -7,6 +7,16 @@
 > It is estimated that nearly 20,000 gnomes live within the region of the Kron Hills. These heights spring eastward from the Lortmils and reach almost to Nyr Dyv. Their verge forms the southern boundary of Veluna, then stretches beside the Velverdyva for a time before peaking in the heart of the Gnarley Forest, where many Sylvan Elves happily roam over their crests. Their southern slopes demark the end of the Wild Coast region and are a part of the northern region of Celene. Some dwarven enclaves exist in the Kron Hills where they butt against the Lortmils, although the number of such demi-humans is not known. The gnomes of the region were instrumental in the organization of the army which drove the humanoid hordes from the Lortmils (and the Kron Hills). They likewise served with honor in the host which defeated the Horde of Elemental Evil in the battle above Verbobonc.  
 > The Kron Hills are mined for metals, precious metals, and gems. The upper slopes are quite fertile and grow many crops in sheltered valley and glen. Quite a number of scattered enclaves of humans live in peace with the gnomes and other demi-humans of the area, save in the Gnarley Forest, where the Olvenfolk are isolationist. [WoG49]  
 
+## Rumors and Information
+
+Entries in italics are false.  
+
+- *Iuz has sent his forces to the region to rebuild and reclaim the Temple of Elemental Evil*
+- A dragon has been seen crisscrossing the Hills of late, it probably has recently made its lair somewhere nearby
+- Iuzite troops have been crawling all over the hills, conducting raids
+- *Whatever happened to Osnabrölt, the Iuzites are responsible*
+- The tragedy that befell Osnabrölt is only the latest in the warren's long and troubled history
+
 ## Kron Hills Encounters
 
 d20 | Encounter
@@ -78,7 +88,9 @@ d8 | Encounter | Starting Attitude
 
 ### Iuzite Activity
 
-Deploying out of a major forward operating base established on the edge of the Gnarley Forest (see [Part 1, Chapter 4](../vl/4-traveling.md#iuzite-encampment)), the forces of the Old One have become increasingly active across the Kron Hills.
+Deploying out of a major forward operating base established on the edge of the Gnarley Forest (see [Part 1, Chapter 4](../vl/4-traveling.md#iuzite-encampment)), the forces of the Old One have become increasingly active across the Kron Hills. Primarily they are in the area to support Beryn Talkin, ready to move at his command at a moment's notice. While waiting for that, their standing orders have been to raid and draw the attention of Verbobonc's forces, but more recently they have been given new direction: to seek the *Sword of Kas*. The commanders have been provided with information that the Sword is somewhere in the Kron Hills, and troops have been mobilized in the search for it and information of its location.  
+
+Roll a d20 and consult, or choose from, the [Iuzite Encounters table](#iuzite-encounters) to determine which of Iuz's troops the travelling characters cross paths with. Decide whether the group is searching for the Sword, causing havoc, gathering resources, or have some other objective.  
 
 #### Iuzite Encounters
 
@@ -110,6 +122,7 @@ d20 | Encounter
 
 ### Hills Flora and Fauna
 
+The Kron Hills are a living ecosystem, albeit one recently thrown into some disarray with the recent arrival of the [Old One's forces](#iuzite-activity) causing chaos and a new [draconic inhabitant](#utreshimon) topping the food chain. The natural wildlife of the Hills varies from the mundane to the monstrous, and includes some species that are rarely or never seen elsewhere in the Flanaess. Roll a d12 and consult, or choose from, the [Kron Hills Wildlife table](#kron-hills-wildlife) to determine what fauna or flora travelling adventurers encounter.  
 
 #### Kron Hills Wildlife
 
@@ -124,7 +137,7 @@ d12 | Encounter
 7 | 1d6 + 2 **harpies**
 8 | 1d6 + 2 **crag cats**\*
 9 | 1d3 **perytons**
-10 | 1 **manticore**
+10 | 1 **chimera**
 11 | 1 **wyvern**
 12 | [Tanbrosh](#tanbrosh)
 
@@ -132,9 +145,9 @@ d12 | Encounter
 
 ##### Camprats
 
-The camprat is a notorious vermin that inhabits the hills of the Flanaess. and the Kron Hills are no exception. Legends tell of a gnomish king who once dedicated a decade of his reign to ridding the Kron Hills of the creatures, to no avail. Camprats are rodents, exhibiting behavior similar in many ways to rats, but with an appearance more resembling a small gopher.  
+The camprat is a notorious vermin that inhabits the hills of the Flanaess, and the Kron Hills are no exception. Legends tell of a gnomish king who once dedicated a decade of his reign to ridding the Kron Hills of the creatures, to no avail. Camprats are rodents, exhibiting behavior in many ways similar to normal rats, but with an appearance more resembling a small gopher.  
 
-Camprats are timid and pose little threat to adventurers, often preferring to flee rather than fight, unless cornered. The main difficulty camprats pose are simply as a nuisance. Active at night, relying only on scavenging to feed, and willing to go to any length to steal food, the camprat's tenacity, agility, and incredibly sharp teeth make sleeping travelers' supplies a common, and aggravating, target.  
+Camprats are timid and pose little threat to adventurers, often preferring to flee rather than fight unless cornered. The main difficulty camprats pose are simply as a nuisance. Active at night, relying only on scavenging to feed, and willing to go to any length to steal food, the camprat's tenacity, agility, and incredibly sharp teeth make sleeping travelers' supplies a common, and aggravating, target.  
 
 An individual camprat has the statistics of a **rat**. A swarm of camprats have the statistics of a **swarm of rats**.
 
@@ -145,6 +158,7 @@ An individual camprat has the statistics of a **rat**. A swarm of camprats have 
 Native to the Kron Hills, tanbrosh is a flowering plant that can be processed into a powerful, and powerfully addictive narcotic.  
 
 Jot notes:
+
 - Usage Effect: +2 Str and Con, -2 Wis  
 - Addiction: Wis save vs addiction on each use if not already addicted  
 - Withdrawal Effect: Each day that an addicted creature goes without a dose, gain one level of exhaustion that does not get removed by a long rest . Taking dose immediately removes exhaustion. Something to remove addiction like: Med check + herb kit, prevents exhaustion gain? Needs some consecutive days to fully remove?  
@@ -154,26 +168,37 @@ Jot notes:
 
 ### Gnomes
 
+The Kron Hills are home to a significant gnomish population...
+
+Osnabrölt is a bit of an outlier, most of the gnomish towns in the Hills construct primarily above ground (according to Oerth Journal #9), whereas Osnabrölt is built as a warren.  
+
+#### Gnomish Encounters
+
+Any gnomes on the table without a specified stat block are **gnome commoners**  
+
 d12 | Encounter
 --- | ---
 1 | 1d4+1 **deep gnomes (svirfneblin)** emerge from a hidden door near the base of a hill. They are inhabitants of a small village beneath the ground, which has so far been hesitant to reveal itself to the wider gnomish community of the Kron Hills.
-2 | A lone gnome merchant (**gnome commoner**) selling wares from a cart pulled by an old **mule**
-3 | Gnome farmers
-4 | Gnome herders
-5 | Small village
-6 | Playing children, parents nearby
-7 | Patrol
+2 | A lone gnome merchant selling basic wares and trinkets from a cart pulled by an old **mule**
+3 | 3d6 gnome farmers out working the fields
+4 | 2d4 gnome herders with 3d8+8 **goats**
+5 | A small gnomish village that won't be found on any map, its inhabitants are 3d20 gnomes of various ages. Roll 1d6 to see if the villagers are welcoming (1-2), indifferent (3-4), or opposed (5-6) to outsiders.
+6 | 1d4+1 gnome children playing with 1d2 of their parents watching from a small distance away, the family lives in a small cottage just on the other side of the hill. The children are excited to meet new faces, but their parents are wary of strangers.
+7 | A squad of 2d8 **gnome warriors** led by 1 **gnome scout** from one of the larger gnomish settlements patrols with vigilance for Iuzite forces threatening their home
 8 | A **rock gnome recluse**\* living as a hermit in a secluded home dug into a hillside
-9 | Traders
-10 | Delivering supplies to Osnabrölt
-11 | Young gnome adventurers
-12 | Gnomes collecting tanbrosh (thinking they might need to fight the Iuzite forces)
+9 | 2d4 gnome traders with 1d4 **ponies** pulling wagons of goods for trade or sale at one of the other gnomish towns
+10 | An adventuring party of 1d4+2 young gnomes of varying classes (all level 1d4), out on their first quest
+11 | 2d4 gnomes harvesting a growth of [tanbrosh](#tanbrosh). With Iuz's forces becoming a growing threat, these gnomes are hoping that the strength-enhancing abilities of the plant will help them protect their home.
+12 | A convoy of 1d4+1 wagons pulled by **mules**, driven by 2d4 gnomes, and escorted by 1d3+1 **gnome warriors**. They are delivering relief supplies to Osnabrölt, or are returning with empty wagons from doing so.
 
 \* Appears in *Dragon of Icespire Peak* from the D&D Essentials Kit  
 
 ### Other Inhabitants
 
-dX | Encounter | Starting Attitude
+
+#### Other Kron Hills Inhabitants
+
+d10 | Encounter | Starting Attitude
 --- | --- | ---
 1 | 1d3 **hill giants** trying to defend their territory | Hostile
 2 | A witch (**druid**) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news. | Indifferent
@@ -183,30 +208,41 @@ dX | Encounter | Starting Attitude
 6 | 2d8 farmers (**commoners**) out working the fields | Indifferent
 7 | A party of 1 **xvart speaker**\* and 2d6 **xvarts**\* out to hunt or plunder a farm for food | Indifferent
 8 | An abandoned farmstead sits in a state of disrepair. It is not immediately obvious how long it has spent uninhabited. | —
-9 | 1d6+1 locals (**commoners**) harvesting a growth of [tanbrosh](#tanbrosh). They have fallen on hard times and in their desperation are hoping to sell the plant to an unscrupulous group in Verbobonc. | Indifferent
+9 | 1d6+1 local humans (**bandits**) harvesting a growth of [tanbrosh](#tanbrosh). They have fallen on hard times and in their desperation are hoping to sell the plant to an unscrupulous group in Verbobonc. | Indifferent
 10 | A family of 1d4+1 halflings (**commoners**) out on their normal daily routine | Friendly
 
 \* Appears in *Volo's Guide to Monsters*  
 
 ### Outsiders
 
+
+
+#### Kron Hills Outsiders
+
 d6 | Encounter
 --- | ---
-1 | 1d3 dwarf **nobles** from deep in the Lortmil Mountains with 1d4 local **gnome scouts**, prospecting for minerals
-2 | A travelling troupe of 1d6 + 2 halfling **bards** from Furyondy are touring the villages in the hills in an attempt to forestall an upcoming performance in Enstad.
+1 | 1d3 dwarf **nobles** from deep in the Lortmil Mountains with 1d4 local **gnome scouts**\*, prospecting for minerals
+2 | A travelling troupe of 1d6 + 2 halfling **bards**\*\* from Furyondy are touring the villages in the hills in an attempt to forestall an upcoming performance in Enstad
 3 | A friendly adventuring party of 1d6 + 1 characters of varying races, classes, and levels (average level 1d4 + 2). They share information about their recent travels.
 4 | The corpse of an adventurer that carries an intact explorer’s pack and lies atop a longsword
 5 | 1d2 human merchants (**commoners**) from Verbobonc leading 1d4 **mules** or 1d4 **ponies** making sales to the inhabitants of the hills. They have been out in the hills for some time and are planning on returning to Verbobonc soon since they are running low on wares.
 6 | 1d3 + 2 grey elf emissaries (**nobles**) on **riding horses** with an escort of 1d10 grey elf **guards** from Celene, bound for Veluna via Verbobonc. They have lost their way through the hills by avoiding the main road in hope of escaping the notice of Iuz's forces.
 
+\* Appears in Appendix X (TODO: Include statblock in site and link from here)  
+\*\* Appears in *Volo's Guide to Monsters*  
+
 ### Viscounty
 
-dX | Encounter
+d6 | Encounter
 --- | ---
-1 | Viscounty militia outpost
-2 | Viscounty road patrol on horseback
-3 | Viscounty road patrol on foot
-4 | Viscounty patrol defeated by Iuzite forces
+1 | A Viscounty road patrol on horseback, comprised of 2d4 **guards** on as many **riding horses**
+2 | A Viscounty road patrol on foot, comprised of 1d6+2 **scouts**
+3 | A fortified Viscounty militia outpost, with an attached stable. It is occupied by 1d4+1 **guards** and a **veteran** commander, with a further 2d4 **guards** out on patrol during daytime hours or at the outpost with the rest after dark.
+4 | A Viscounty watchtower with a high vantage atop a hill. It is occupied by 1d4 **scouts** and 1d2 **archer**\* commanders, with a further 1d6+2 **scouts** out on patrol during daytime hours or at the watchtower with the rest after dark.
+5 | The remnants of a Viscounty patrol defeated by Iuzite forces. Roll 1d2 on this table to determine the patrol whose bodies are found, then use the [Iuzite Encounters table](#iuzite-encounters) to determine the Iuzite forces that bested the patrol, with half of the Iuzites being killed in the encounter (on a 1, roll again and the combat took place in an Iuzite camp).
+6 | A Viscounty fortification overtaken by Iuz's forces. Roll 1d2+2 on this table to determine the sort of fortification captured, its inhabitants all either killed or captured. Then use the [Iuzite Encounters table](#iuzite-encounters) to determine the Iuzite forces that have taken control, with half of them being killed in the attack (on a 1, roll again and the Iuzites have already established a camp around the captured structure).
+
+\* Appears in *Volo's Guide to Monsters*  
 
 ### Utreshimon
 
@@ -249,3 +285,12 @@ If the roll on the Utreshimon Encounters table was a 5, the dragon is flying low
 ##### In the Flesh
 
 Utreshimon engages with the characters directly, but is not hostile unless they appear to be in league with Iuz. Most likely, he will wish to speak to the party simply out of interest, possibly after having noticed them a few times (perhaps while staying unnoticed himself) during their trek through the Kron Hills. As long as the characters can assure the dragon that they hold no loyalty to Iuz, he lets them go unharmed, and even offers his protection above that if they convince him that they are actively working against Iuz in this region. If the dragon is unconvinced of the party's loyalties, or if he is attacked by them, he does not hold back in fighting them but will retreat rather than fight to the death.  
+
+## Approaching Osnabrölt
+
+Within a day or so of Osnabrölt, replace all "Other Inhabitants", "Outsiders", and "Viscounty" results with "Gnomes" instead,  
+
+
+## Level Advancement
+
+The characters advance from 8th to 9th level upon arriving at Osnabrölt?  

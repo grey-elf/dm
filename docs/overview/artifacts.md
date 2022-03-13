@@ -26,7 +26,7 @@ Location: Osnabrölt
 
 Aspect: The Destroyer, Kas as warrior and bodyguard. Brutal, bloodthirsty, ferocious.  
 
-> You are Kas, the Destroyer. When you are not at Lord Vecna's side protecting his life with your own, you are the tip of his spear, leading the charge of his dread hordes and war wizards against his enemies. Fear grips even the mightiest heroes of Good when you step onto the battlefield, for they know that the approach of Lord Vecna's champion is the approach of death itself. The greatsword in your hands is an instrument of destruction, sailing through the air with grace and ease, it turns everything around you into bloody carnage.  
+> You are Kas, the Destroyer. When you are not at Lord Vecna's side protecting his life with your own, you are the tip of his spear, leading the charge of his dread hordes and war wizards against his enemies. Fear grips even the mightiest heroes of Good when you step onto the battlefield, for they know that the approach of Lord Vecna's champion is the approach of death itself. The greatsword in your hands is an instrument of glorious destruction: it sails through the air with grace and ease, and turns everything around you into bloody carnage.  
 > 
 
 

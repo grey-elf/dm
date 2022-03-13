@@ -1,12 +1,14 @@
 # Chapter 5: Verbobonc
 
+TODO: This entire chapter needs cleanup and fleshing out
+
 Upon arriving in Verbobonc, the party's priority should be locating the cultists there. If they have ensured the Avrel they will track the cult to help regain his clan's reputation, or followed the information from Almarth that this is where he brought the cultists to Greyhawk from, this should be clear to them. But if they are fixated on the vague news they have from Osnabrölt or on the fate of the Circle of Eight, are confused, or are too focused on some other direction, they can be nudged in the right direction if required.  
 
 If Turim is with the party and has either been told or somehow else found out that the party is seeking the Cult of Vecna, he immediately and very conspicuously begins asking around about the cult. It is in his best interest to do so, since even alerting the cult will help him find them and claim his rightful position as the [Voice of Vecna](../overview/the-cult-of-vecna.md#the-voice-of-vecna). This very quickly ensures that not only the cult, but other power groups in the city are aware of the party and their search.  
 
 If the party travelled with Yagos ~~and are aware of his status as a cultist~~, he tells them that he will arrange a meeting with a contact of his within the cult that can get them to the temple in the city. The contact in question is [Oaklin](dramatis-personae.md#oaklin-the-half-elf). If allowed to meet privately, they make plans for Yagos to take the party to the Rock Powder Inn where they will rendezvous with Oaklin, who will then lead them to an ambush at the quarry at night, under the pretense of it being a cult ceremony and the party arriving as new inductees. If the two aren't allowed to converse in private, Yagos will meet Oaklin with any party members who wish to be present, and introduce them to Oaklin as potential new disciples. Yagos will attempt to secretly convey to Oaklin that they are actually enemies of the cult and need to be dealt with, his deception can be seen through by making a Wisdom (Insight) check, contested by Yagos' Charisma (Deception) check. Characters who do not know thieves' cant make the check at disadvantage, and may be unable determine the actual meaning of the coded exchange. If the secret message is able to go by unnoticed and uninterrupted, Oaklin sets up the same plan as if the two of them were able to meet alone. *revision note: Yagos will play this slightly differently if he is known to be a cultist, or if he is acting as if he only knows about the cult and is acting out of fear of them.*  
 
-If the party arrived with the Rhennee fleet and Yagos has not been outed, he secretly informed the Cult of the party and their investigation. This makes its way up the cult structure in Verbobonc, then the Thought of the Organ dispatched one of their top operatives to tail them: the leader of the Fingers in Verbobonc, [Oaklin the Half-Elf](dramatis-personae.md#oaklin-the-half-elf)
+If the party arrived with the Rhennee fleet and Yagos has not been outed, he secretly informed the Cult of the party and their investigation. This makes its way up the cult structure in Verbobonc, then the Thought of the Organ dispatches one of their top operatives to tail them: the leader of the Fingers in Verbobonc, [Oaklin the Half-Elf](dramatis-personae.md#oaklin-the-half-elf).  
 
 ## News from Kieren
 
@@ -73,13 +75,12 @@ Even though he is later in his years, Virianis Dast spends much of his time movi
 ## Searching
 
 - His Holiness, Bishop Haufren of Saint Cuthbert (LN Oeridian human **war priest**, he/him)
-- Provost of the City, Her Prominence Rollei Augustin (LN Suloise human **noble**, she/her)
+- Provost of the City, [First Magistrate of Security,] Her Prominence Rollei Augustin (LN Suloise human **noble**, she/her)
 - The Right Honorable Sir Alfentrask (LG Oeridian half-orc **knight**, they/them)
 - Gentlefolk of the Watch (LN/LG/N/NG various **guards**)
 
 The first morning the party wakes in Verbobonc once the cult knows of their presence, they find a finger hanging on their door. Make it the finger of someone they like for extra effect.  
 The cult has been putting a trap in motion since becoming aware of the party's presence.  
-
 
 - Bishop is concerned about the loss of divine powers and cult activity
 - Instead of directing them towards the taverns like in the book text, Bishop Haufren suggests the party seek out Virianis Dast. He doesn't explicitly say it, but he suspects that the cult is predominately active among the poor.

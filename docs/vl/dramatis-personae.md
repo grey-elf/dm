@@ -71,7 +71,11 @@ Oaklin is a half-elf **master thief**, with these changes:
 - Oaklin's pronouns are he/they.  
 - Oaklin is neutral evil.  
 - He has these racial traits: They have darkvision out to a range of 60 feet. He has advantage on saving throws against being charmed, and magic can’t put them to sleep. He can speak, read, and write Common and Elvish and knows thieves' cant.  
-- He wears a pair of ***boots of speed***.  
+- They wield a ***dagger of venom***.
+- He wears a pair of ***boots of speed*** that used to belong to Otto.  
+- They carry a ***potion of vitality***.
+
+TODO: Recalculate CR
 
 ## Mordenkainen
 
@@ -128,6 +132,7 @@ Yagos Slevak is a Rhennee human **master thief**, with these changes:
 - Yagos is neutral evil.  
 - He knows Common, Rhopan and thieves' cant.  
 - He has proficiency with water vehicles.  
+- Instead of a light crossbow, he has a hand crossbow.
 - In addition to his weapons, he carries a set of ***iron bands of Bilarro***.  
 
 

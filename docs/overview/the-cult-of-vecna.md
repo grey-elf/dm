@@ -102,6 +102,7 @@ Smear red dye across face.
 - Thug
 - Veteran
 - Champion
+- Blackguard
 
 ### The Disciples of Vecna
 

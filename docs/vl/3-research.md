@@ -342,7 +342,7 @@ The players might recognize him from the attack at the Roc and Oliphant.
 !!! note "Family"
     - Husband: Marcel Vali (NG Rhennee human **druid**, he/him)  
     - Brother: Morlo Vergond (Deceased, he/him)  
-    - Niece: Rona Fele (CN Rhennee human **swashbuckler**, she/they) [relevant in our campaign specifically, might cut from final]  
+    - Niece: Rona Fele (CN Rhennee human **swashbuckler**, she/they) [relevant in our campaign specifically, will probably cut from final because she's special to the players]  
 
 #### The Thieves' Guild
 
@@ -402,7 +402,7 @@ See "Tracking" in An Interlude
 - Award magic items
     - If she hasn't already, gives one of a pair of ***sending stones***, the other remains with her so they can stay in communication
     - 4x potions of healing
-    - Offers each character a choice between two common or uncommon magic items that would be appropriate to them
+    - Offers each character a choice between two common or uncommon magic items that would be appropriate to them (offer OOC and have Kieren gift them their choice)
     - 1x potion of any rarity (within reason) that Kieren thinks they would find useful
 
 
